@@ -18,7 +18,7 @@ B.Tech in Electrical & Electronics Engineering | Student @ Puducherry Technologi
 
 ### I code in
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/express-js.png" />
 
 **Languages:** Java | JavaScript  
 **Concepts:** Data Structures & Algorithms | Object-Oriented Programming
@@ -27,16 +27,16 @@ B.Tech in Electrical & Electronics Engineering | Student @ Puducherry Technologi
 
 ### 🎨 Frontend Development
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" />  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 
-**Stack:** HTML5 | CSS3 | JavaScript | React JS  | Tailwind CSS
+**Stack:** HTML5 | CSS3 | JavaScript | React JS  | Tailwind CSS | Redux
 
 
 ### 🚀 Backend Development (Learning)
 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" /> <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" />   <img height="50" width="48" src="https://img.icons8.com/color/48/000000/express-js.png" /> 
 
-**Stack:** Node JS | Express JS | MongoDB | Firebase | Redux
+**Stack:** Node JS  | MongoDB | Firebase | Express JS
 
 
 ### 🔥 LeetCode Stats
