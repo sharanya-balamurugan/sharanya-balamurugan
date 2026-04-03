@@ -2,7 +2,7 @@
 
 B.Tech in Electrical & Electronics Engineering | Student @ Puducherry Technological University
 
-<img align="right" width="300" height="300" src="profile.jpg" style="border-radius: 12px;">
+<img align="right" width="350" height="420" src="profile-img.png" style="border-radius: 10px;">
 
 - 🌱 Passionate about building responsive & interactive web applications
 - ⚡ Learning Data Structures, Algorithms & Object-Oriented Programming
